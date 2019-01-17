@@ -1,4 +1,4 @@
-# Juego-Ahorcado-Sockets
+# Juego-del-ahorcado-sockets
 juego del ahorcado utilizando sockets.<br>
 
 ## Próposito
